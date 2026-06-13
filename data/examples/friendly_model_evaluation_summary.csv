@@ -1,0 +1,2 @@
+n_evaluated,accuracy,mean_log_loss,mean_brier_score,mean_total_absolute_goal_error
+8,0.875,0.6693130608071786,0.3632024540687401,2.159568452657319
