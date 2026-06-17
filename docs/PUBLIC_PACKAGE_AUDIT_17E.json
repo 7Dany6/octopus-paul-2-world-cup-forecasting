@@ -1,0 +1,14 @@
+{
+  "package": "octopus-paul-2-world-cup-forecasting-17e-fixed-commit",
+  "language": "English",
+  "no_cyrillic_check": "passed",
+  "contains_api_keys": false,
+  "contains_raw_paid_data": false,
+  "contains_notebook": true,
+  "contains_example_outputs": true,
+  "contains_figures": true,
+  "projected_champion": "Argentina",
+  "annex_c_rows": 495,
+  "annex_c_validation": "passed",
+  "single_bracket_validation": "passed"
+}
